@@ -1,0 +1,74 @@
+theme:
+  name: material
+  language: de
+  logo: assets/logo2.png
+  favicon: assets/favicon.ico
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.footer
+    - header.autohide
+    - content.code.annotate
+    - content.action.edit
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+
+markdown_extensions:
+  # Enable Mermaid integration (as part of material template)
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  # Enable Admonitions
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  # Enable code blocks
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  # Icons, Emojis
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  # Footnotes
+  - footnotes
+
+
+
+extra:
+  social:
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/people/Freiwillige-Feuerwehr-Markt-Baudenbach/100079970650022/
+    - icon: fontawesome/brands/github
+      link: https://github.com/FFW-Baudenbach
+
+
+
+extra_css:
+  - stylesheets/max_body_size.css
+  - stylesheets/extra.css
