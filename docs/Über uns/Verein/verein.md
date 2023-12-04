@@ -1,8 +1,9 @@
 # Verein
 
-In Bayern ist eine Gemeinde per Gesetz dazu verpflichtet eine Feuerwehr aufzustellen und zu unterhalten. Nach außen repräsentiert sich eine freiwillige Feuerwehr deshalb als eine Organisation der Gemeinde.
+**In Bayern ist eine Gemeinde per Gesetz dazu verpflichtet eine Feuerwehr aufzustellen und zu unterhalten. Nach außen repräsentiert sich eine freiwillige Feuerwehr deshalb als eine Organisation der Gemeinde.**
 
 Allerdings haben Sie sich sicherlich auch schon mal gefragt, warum die Feuerwehr das Grillfest veranstaltet oder Ausflüge unternimmt, obwohl sie doch eigentlich andere Aufgaben hat.
+
 Genau genommen besteht eine Freiwillige Feuerwehr in Bayern in der Regel aus zwei Teilen. Einerseits ist die Freiwillige Feuerwehr als so genannte "gemeindliche" Feuerwehr als Organ der Gemeinde tätig und andererseits wird die Bezeichnung "Freiwillige Feuerwehr" auch für den Feuerwehrverein genutzt.
 
 ## Über den Verein
@@ -27,6 +28,6 @@ Man unterscheidet den Status der Mitglieder wie folgt:
 * Passive Vereinsmitglieder leisten keinen aktiven Feuerwehrdienst, sondern unterstützen bei Vereinsaufgaben, wie zum Beispiel bei den Festlichkeiten oder rein durch den jährlichen Beitrag.
 
 
-Falls nun Ihr Interesse am Feuerwehrverein gemkdweckt wurde, so werden S I E für nur 10 € im Jahr Mitglied der Freiwilligen Feuerwehr Markt Baudenbach. Für weitere Informationen schreiben Sie dem Vorstand.
+Falls nun Ihr Interesse am Feuerwehrverein geweckt wurde, so werden **S I E** für nur 10€ im Jahr Mitglied der Freiwilligen Feuerwehr Markt Baudenbach. Für weitere Informationen schreiben Sie dem Vorstand.
 
 Wir kommen, wenn Sie Hilfe brauchen! Unterstützen Sie uns durch ihre Hilfe!

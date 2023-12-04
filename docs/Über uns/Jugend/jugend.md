@@ -26,9 +26,12 @@ Mehr über die Abzeiechen, weiter unten.
 ## Eintritt
 
 Bei uns kann jede(r) von 12 bis 17 Jahren in die Jugendfeuerwehr eintreten, Mädchen wie auch Jungen. Es werden keine Vorkenntnisse oder besondere Fähigkeiten vorausgesetzt. Jeder bekommt seine persönliche Schutzausrüstung gestellt.
+
 Unentschlossene können auch einfach so bei uns vorbeischauen.
+
 Jugendübungen finden meist alle 14 Tage am Dienstag um 19:00 Uhr statt.
-Die genauen Jugendtermine findet ihr im Terminkalender.
+
+Die genauen Jugendtermine findet ihr im [Terminkalender](../../Termine/Termine.md).
 
 ## Kontakt
 
@@ -43,9 +46,13 @@ Die Feuerwehranwärter der Jugendfeuerwehren in Bayern legen jedes Jahr den Wiss
 ### Jugendflamme
 
 Die Jugendflamme ist wie die Leistungsspange ein Ausbildungsnachweis in Form eines Abzeichens und motiviert die Jugendlichen im Verlauf der Ausbildung. Zu dem gibt die Jugendflamme den Jugendfeuerwehrwarten eine Hilfestellung zu Gestaltung der JF-Dienstabende und sichert dadurch den hohe Stand der Feuerwehrausbildung.
+
 Die Rahmenbedingungen wurden von der Deutschen Jugendfeuerwehr vorgegeben und können von den einzelnen Bundesländern und deren Landkreisen teilweise angepasst werden.
+
 Um die einzelnen drei Stufen der Jugendflamme zu erreichen, sind je nach Leistungsstufe verschiedene Anforderungen von der Gruppe und teilweise sogar von jedem Einzelnen zu erfüllen.
+
 Das Abzeichen in Stufe III ist die höchste Auszeichnung, die ein Jugendfeuerwehrmitglied erreichen kann.
+
 Die Jugendflamme wird an der Dienstkleidung der Jugendfeuerwehr getragen. Zu dem steht unten auf dem Abzeichen der Name des jeweiligen Bundeslandes.
 
 ### Bay. Jugendspange
@@ -61,6 +68,7 @@ Es müssen Können und Geschick beweisen werden bei:
 ### Deutsche Jugendleistungsprüfung
 
 Um diese Auszeichnung zu erhalten, müssen die Bewerber mindestens 15 Jahre alt und 1 Jahr Mitglied der Jugendfeuerwehr sein. Die DJL wird nur alle 2 Jahre auf Kreisebene abgenommen.
+
 Im Rahmen der Prüfung werden in einer Gruppe, bestehend aus 9 Jugendfeuerwehrmitgliedern, 5 Übungen absolviert:
 
 * Schnelligkeitsübung

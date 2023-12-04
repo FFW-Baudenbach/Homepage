@@ -66,7 +66,7 @@ extra:
       link: https://www.facebook.com/people/Freiwillige-Feuerwehr-Markt-Baudenbach/100079970650022/
     - icon: fontawesome/brands/github
       link: https://github.com/FFW-Baudenbach
-
+  generator: false
 
 
 extra_css:

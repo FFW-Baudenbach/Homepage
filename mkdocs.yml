@@ -20,24 +20,24 @@ plugins:
       validate_external_urls: False
 
 nav:
-  - News:
+  - Home:
       - index.md
+  - Über uns:
+    - Über uns/index.md
+    - Aktive Wehr:
+      - Über uns/Aktive Wehr/01-fuehrung.md
+      - Über uns/Aktive Wehr/02-einsatzfahrzeuge.md
+    - Jugend: Über uns/Jugend/jugend.md
+    - Verein: Über uns/Verein/verein.md
+    - Handyalarmierung: Über uns/Handyalarmierung/index.md
+    - Firecloud: Über uns/Firecloud/index.md
   - Einsätze:
-      - 01-Einsätze/einsaetze.md
-  - Aktive Wehr:
-      - 02-Aktive-Wehr/01-fuehrung.md
-      - 02-Aktive-Wehr/02-einsatzfahrzeuge.md
-  - Jugend:
-      - 03-Jugend/jugend.md
-  - Verein:
-      - 04-Verein/verein.md
+      - Einsätze/Einsätze.md
   - Termine:
-      - 05-Termine/termine.md
-  - Handyalarmierung:
-      - 06-Handyalarmierung/01-nutzungsbedingungen.md
-      - 06-Handyalarmierung/02-datenschutz.md
-  - Firecloud: https://ffw-baudenbach.de/firecloud
+      - Termine/Termine.md
+
+
   - Kontakt: https://baudenbach.einsatzprotokoll.com/intern/kontaktformular.html
   - Impressum:
-      - 09-Impressum/01-impressum.md
-      - 09-Impressum/02-datenschutz.md
+      - Impressum/01-impressum.md
+      - Impressum/02-datenschutz.md

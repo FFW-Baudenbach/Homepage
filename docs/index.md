@@ -6,9 +6,6 @@ hide:
 
 # Herzlich Willkommen
 
+[![Aktuller Einsatz](https://baudenbach.einsatzprotokoll.com/attachment/integration/pager-swissphone.png){ width="170", loading=lazy }](Einsätze/Einsätze.md)
 
-<a href="01-Einsätze/einsaetze/">
-    <img
-        src="https://baudenbach.einsatzprotokoll.com/attachment/integration/pager-swissphone.png"
-        alt="Aktueller Einsatz" loading="lazy" width="170px"/>
-</a>
+## Aktuelles
