@@ -12,7 +12,7 @@ Achim Hummel, 1. Vorstand
 
 ## Kontakt:
 Telefon: 	+49 (0) 9164 9989975  
-E-Mail: 	verein-vorstand@ffw-baudenbach.de
+E-Mail: 	[Kontaktformular](https://baudenbach.einsatzprotokoll.com/intern/kontaktformular.html){ target="_blank" }
 
 Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
 

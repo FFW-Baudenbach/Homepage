@@ -1,9 +1,14 @@
 authors:
-  webmaster:
-    name: Markus Zellner
-    description: Webmaster
-    avatar: https://github.com/odin568.png
+
   kommandant:
     name: Karl-Heinz Köberer
     description: Kommandant
+    avatar: https://github.com/odin568.png
+  verein:
+    name: Achim Hummel
+    description: Verein
+    avatar: https://github.com/odin568.png
+  webmaster:
+    name: Markus Zellner
+    description: Webmaster
     avatar: https://github.com/odin568.png

@@ -1,10 +1,8 @@
 theme:
   name: material
   language: de
-  logo: assets/logo2.png
+  logo: assets/logo-brunnen.png
   favicon: assets/favicon.ico
-  icon:
-    repo: fontawesome/brands/github
   features:
     - navigation.instant
     - navigation.instant.progress
@@ -17,20 +15,7 @@ theme:
     - content.code.annotate
     - content.action.edit
   palette:
-    # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: custom
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-    # Palette toggle for dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: custom
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
+    - primary: custom
 
 
 markdown_extensions:
@@ -44,20 +29,14 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-  # Enable code blocks
-  - pymdownx.highlight:
-      anchor_linenums: true
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
-  - pymdownx.superfences
   # Icons, Emojis
   - attr_list
+  - md_in_html
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   # Footnotes
   - footnotes
-
 
 
 extra:

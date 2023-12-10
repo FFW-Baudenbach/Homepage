@@ -6,12 +6,10 @@ site_dir: 'public'
 site_name: 'Freiwillige Feuerwehr Markt Baudenbach'
 site_url: 'https://ffw-baudenbach.github.io/Homepage/'
 
-#repo_name: 'Homepage'
-#repo_url: 'https://github.com/FFW-Baudenbach/Homepage'
-#edit_uri: 'edit/main/docs/'
-
 plugins:
   - search
+  - privacy
+  - glightbox
   - blog:
       blog_dir: .
       blog_toc: true
@@ -35,9 +33,6 @@ nav:
       - Einsätze/Einsätze.md
   - Termine:
       - Termine/Termine.md
-
-
-  - Kontakt: https://baudenbach.einsatzprotokoll.com/intern/kontaktformular.html
   - Impressum:
       - Impressum/01-impressum.md
       - Impressum/02-datenschutz.md
