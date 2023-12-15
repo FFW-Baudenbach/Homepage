@@ -3,9 +3,6 @@ hide:
   - footer
   - toc
 ---
-
-# Herzlich Willkommen
-
 <!-- this is a work around to make the privacy plugin work!-->
 <script type="text/javascript">
     function insert(){
@@ -19,10 +16,9 @@ hide:
     }
  </script>
 
- <div id="letztereinsatzdiv">
-     <script type="text/javascript">
-         insert();
-     </script>
- </div>
+# Herzlich Willkommen
+![Logo](assets/logo_ffw_neu.png){ loading=lazy }
 
-## Aktuelles
+<div id="letztereinsatzdiv"><script type="text/javascript">insert();</script></div>
+
+## Aktuelle News

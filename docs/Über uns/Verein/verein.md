@@ -1,5 +1,7 @@
 # Verein
 
+![Logo](../../assets/logo_ffw_neu.png){ align=left; loading=lazy }
+
 **In Bayern ist eine Gemeinde per Gesetz dazu verpflichtet eine Feuerwehr aufzustellen und zu unterhalten. Nach außen repräsentiert sich eine freiwillige Feuerwehr deshalb als eine Organisation der Gemeinde.**
 
 Allerdings haben Sie sich sicherlich auch schon mal gefragt, warum die Feuerwehr das Grillfest veranstaltet oder Ausflüge unternimmt, obwohl sie doch eigentlich andere Aufgaben hat.
@@ -31,3 +33,5 @@ Man unterscheidet den Status der Mitglieder wie folgt:
 Falls nun Ihr Interesse am Feuerwehrverein geweckt wurde, so werden **S I E** für nur 10€ im Jahr Mitglied der Freiwilligen Feuerwehr Markt Baudenbach. Für weitere Informationen schreiben Sie dem Vorstand.
 
 Wir kommen, wenn Sie Hilfe brauchen! Unterstützen Sie uns durch ihre Hilfe!
+
+:fontawesome-solid-file-pdf: [Mitgliedsantrag](FFW_Beitrittserklärung.pdf)

@@ -49,5 +49,5 @@ extra:
 
 
 extra_css:
-  - stylesheets/max_body_size.css
-  - stylesheets/extra.css
+  - assets/stylesheets/max_body_size.css
+  - assets/stylesheets/extra.css

@@ -24,15 +24,25 @@ nav:
     - Über uns/index.md
     - Aktive Wehr:
       - Über uns/Aktive Wehr/01-fuehrung.md
-      - Über uns/Aktive Wehr/02-einsatzfahrzeuge.md
+      - Einsatzfahrzeuge:
+        - Über uns/Aktive Wehr/Einsatzfahrzeuge/index.md
+        - Über uns/Aktive Wehr/Einsatzfahrzeuge/mzf.md
+        - Über uns/Aktive Wehr/Einsatzfahrzeuge/lf86.md
+        - Über uns/Aktive Wehr/Einsatzfahrzeuge/slf.md
+        - Über uns/Aktive Wehr/Einsatzfahrzeuge/tsfa.md
     - Jugend: Über uns/Jugend/jugend.md
     - Verein: Über uns/Verein/verein.md
-    - Handyalarmierung: Über uns/Handyalarmierung/index.md
-    - Firecloud: Über uns/Firecloud/index.md
   - Einsätze:
       - Einsätze/Einsätze.md
   - Termine:
       - Termine/Termine.md
+  - Intern:
+      - Intern/index.md
+      - Handyalarmierung:
+        - Intern/Handyalarmierung/index.md
+        - Intern/Handyalarmierung/Nutzungsbedingungen.md
+      - Firecloud: Intern/Firecloud/index.md
+      - Kalender: Intern/Kalender/index.md
   - Impressum:
       - Impressum/01-impressum.md
       - Impressum/02-datenschutz.md
