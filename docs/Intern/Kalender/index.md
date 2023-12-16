@@ -18,9 +18,11 @@ Der Kalender untergliedert sich in folgende Kategorien:
 * Zug 1
 * Zug 2
 
-## Einrichtung auf dem Smartphone
+## Abonnieren
 
-Auf dem Smartphone können verschiedene Kalender eingetragen werden. Der Einfachheit halber werden einige Kalenderkategorien zusammengefasst.
+Kalender können abonniert werden, um automatisch an anstehende Termine erinnert zu werden.
+
+Der Einfachheit halber werden einige Kalenderkategorien zusammengefasst.
 
 ### Kalenderlinks
 
