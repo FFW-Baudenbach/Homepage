@@ -8,3 +8,5 @@
 
 
 ### Anleitungen
+
+[Apple iPhone](https://support.apple.com/de-de/guide/iphone/ipha0d932e96/ios){target="_BLANK"}

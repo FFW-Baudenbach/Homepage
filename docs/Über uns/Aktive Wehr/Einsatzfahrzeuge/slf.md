@@ -1,5 +1,7 @@
 # Sonderlöschfahrzeug
 
+![NEA-2161_VR_20110604.jpg](bilder%2Fslf%2FNEA-2161_VR_20110604.jpg){width=400; loading=lazy}
+
 **Funkrufname**
 Florian Baudenbach 49/1
 
@@ -59,3 +61,9 @@ Büssing
 Das Fahrzeug war ursprünglich beim Bundesgrenzschutz im Einsatz (20.05.1970 bis 1985) und wurde danach in Eigenleistung zum Löschfahrzeug umgebaut. Als Besonderheit hat das Fahrzeug Sitzplätze für eine Gruppe (1/8).
 
 **Bilder**
+
+![NEA-2161_Cockpit_20110604.jpg](bilder%2Fslf%2FNEA-2161_Cockpit_20110604.jpg)
+![NEA-2161_F_20110604.jpg](bilder%2Fslf%2FNEA-2161_F_20110604.jpg)
+![NEA-2161_HLo_20110604.jpg](bilder%2Fslf%2FNEA-2161_HLo_20110604.jpg)
+![NEA-2161_L_20110604.jpg](bilder%2Fslf%2FNEA-2161_L_20110604.jpg)
+![NEA-2161_VL_20110604.jpg](bilder%2Fslf%2FNEA-2161_VL_20110604.jpg)

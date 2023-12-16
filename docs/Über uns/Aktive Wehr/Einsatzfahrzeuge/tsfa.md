@@ -3,4 +3,11 @@
 **Funkrufname**
 Florian Baudenbach 45/1
 
-Der Tragkraftspritzenanhänger ist in Roßbach stationiert.
+**Wache** 
+Feuerwehrhaus Roßbach
+
+**Zuständige Leitstelle**
+Ansbach
+
+**Klassifizierung**
+Tragkraftspritzenanhänger

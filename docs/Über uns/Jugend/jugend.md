@@ -1,5 +1,10 @@
 # Jugendfeuerwehr
 
+<figure markdown>
+  ![jugend-gruppenbild.jpg](jugend-gruppenbild.jpg){load=lazy}
+  <figcaption>Jugendfeuerwehr im Februar 2020</figcaption>
+</figure>
+
 ## Wir über uns
 
 Bei uns lernt man in der Ausbildung alles, was man später als Feuerwehrdienstleistender im aktiven Dienst braucht. Und obwohl die Ausbildung ein zentrales Thema in der Jugendfeuerwehr ist, haben wir natürlich mehr zu bieten.

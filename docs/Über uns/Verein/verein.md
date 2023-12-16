@@ -8,6 +8,11 @@ Allerdings haben Sie sich sicherlich auch schon mal gefragt, warum die Feuerwehr
 
 Genau genommen besteht eine Freiwillige Feuerwehr in Bayern in der Regel aus zwei Teilen. Einerseits ist die Freiwillige Feuerwehr als so genannte "gemeindliche" Feuerwehr als Organ der Gemeinde tätig und andererseits wird die Bezeichnung "Freiwillige Feuerwehr" auch für den Feuerwehrverein genutzt.
 
+<figure markdown>
+  ![verein-gruppenbild.jpg](verein-gruppenbild.jpg){load=lazy}
+  <figcaption>Februar 2020</figcaption>
+</figure>
+
 ## Über den Verein
 
 Der örtliche Feuerwehrverein hat - wie andere Vereine auch - eine von der Mitgliederversammlung gewählte Vorstandschaft und Mitglieder. Zur Zeit sind knapp 120 Bürgerinnen und Bürger Mitglied im Feuerwehrverein.
