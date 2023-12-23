@@ -34,7 +34,7 @@ jobs:
         with:
           find: "assets/external/baudenbach.einsatzprotokoll.com"
           replace: "https://baudenbach.einsatzprotokoll.com"
-          include: "./public/**"
+          include: "**/*.html"
           regex: false
       - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
