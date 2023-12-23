@@ -33,7 +33,7 @@ jobs:
         with:
           find: assets/external/baudenbach.einsatzprotokoll.com
           replace: https://baudenbach.einsatzprotokoll.com
-          include: "public/**/*.html"
+          include: "**/*.html"
           regex: false
       - name: 📂 Publish to FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
