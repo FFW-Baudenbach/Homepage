@@ -27,15 +27,15 @@ jobs:
             mkdocs-material-
       - run: pip install -r requirements.txt
       - run: pip list | grep mkdocs
-      - run: mkdocs gh-deploy --force
       - run: mkdocs build --strict
-      - name: Find and Replace
+      - name: Replace Urls back (privacy plugin of mkdocs)
         uses: jacobtomlinson/gha-find-replace@v3
         with:
           find: assets/external/baudenbach.einsatzprotokoll.com
           replace: https://baudenbach.einsatzprotokoll.com
-          include: "**/*.html"
+          include: "public/**/*.html"
           regex: false
+      - run: mkdocs gh-deploy --force
       - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
