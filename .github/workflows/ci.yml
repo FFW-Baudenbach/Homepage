@@ -32,8 +32,8 @@ jobs:
       - name: Find and Replace
         uses: jacobtomlinson/gha-find-replace@v3
         with:
-          find: "assets/external/baudenbach.einsatzprotokoll.com"
-          replace: "https://baudenbach.einsatzprotokoll.com"
+          find: assets/external/baudenbach.einsatzprotokoll.com
+          replace: https://baudenbach.einsatzprotokoll.com
           include: "**/*.html"
           regex: false
       - name: 📂 Sync files
