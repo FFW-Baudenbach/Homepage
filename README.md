@@ -1,5 +1,7 @@
 # Homepage
 
+[![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
+
 ** [LINK](https://ffw-baudenbach.github.io/Homepage/) **
 
 The Homepage is generated automatically generated on every change from the [docs](/docs) folder.
