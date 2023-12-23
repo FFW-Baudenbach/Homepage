@@ -1,9 +1,11 @@
 ---
+title: News
 hide: 
   - footer
   - toc
 ---
-<!-- this is a work around to make the privacy plugin work!-->
+
+<!-- this is a workaround to make the privacy plugin work!-->
 <script type="text/javascript">
     function insert(){
         var src = document.getElementById("letztereinsatzdiv");

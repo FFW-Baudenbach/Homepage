@@ -16,3 +16,5 @@ frameborder="0" marginheight="0px"
 marginwidth="0px" height="700px"
 loading="lazy" referrerpolicy="strict-origin"
 width="100%px" allowfullscreen></iframe>
+
+[Hier](https://baudenbach.einsatzprotokoll.com/einsatzkarte.html){ target="_BLANK" } geht es zur Einatzkarte.
