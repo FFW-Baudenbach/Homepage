@@ -36,5 +36,4 @@ jobs:
           username: ${{ secrets.ftp_user }}
           password: ${{ secrets.ftp_password }}
           local-dir: ./public/
-          server-dir: public_html/TEST/
-          dry-run: true
+          server-dir: public_html/NEW/
