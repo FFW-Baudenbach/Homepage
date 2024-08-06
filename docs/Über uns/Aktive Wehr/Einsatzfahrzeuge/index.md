@@ -2,10 +2,14 @@
 
 Hier finden Sie einen Überblick über die Einsatzfahrzeuge der FFW Markt Baudenbach:
 
+## Aktuell
 * [Mehrzweckfahrzeug](mzf.md)
 * [Löschgruppenfahrzeug LF8/6](lf86.md)
-* [Sonderlöschfahrzeug (Hanomag)](slf.md)
-* [Tragkraftspritzenanhänger](slf.md) (Löschgruppe Roßbach)
+* [Tragkraftspritzenanhänger](Archiv/slf.md) (Löschgruppe Roßbach)
+
+## Ehemalige Fahrzeuge
+
+* [Sonderlöschfahrzeug (Hanomag)](Archiv/slf.md)
 
 <hr/>
 

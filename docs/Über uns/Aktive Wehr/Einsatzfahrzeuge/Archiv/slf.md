@@ -1,6 +1,6 @@
-# Sonderlöschfahrzeug
+# Sonderlöschfahrzeug (Hanomag)
 
-![NEA-2161_VR_20110604.jpg](bilder%2Fslf%2FNEA-2161_VR_20110604.jpg){width=400; loading=lazy}
+![NEA-2161_VR_20110604.jpg](../bilder/slf/NEA-2161_VL_20110604.jpg){width=400; loading=lazy}
 
 **Funkrufname**
 Florian Baudenbach 49/1
@@ -35,6 +35,9 @@ Büssing
 **Indienststellung**
 1985
 
+**Außerdienststellung**
+2024
+
 **Besatzung**
 1/8
 
@@ -62,8 +65,8 @@ Das Fahrzeug war ursprünglich beim Bundesgrenzschutz im Einsatz (20.05.1970 bis
 
 **Bilder**
 
-![NEA-2161_Cockpit_20110604.jpg](bilder%2Fslf%2FNEA-2161_Cockpit_20110604.jpg)
-![NEA-2161_F_20110604.jpg](bilder%2Fslf%2FNEA-2161_F_20110604.jpg)
-![NEA-2161_HLo_20110604.jpg](bilder%2Fslf%2FNEA-2161_HLo_20110604.jpg)
-![NEA-2161_L_20110604.jpg](bilder%2Fslf%2FNEA-2161_L_20110604.jpg)
-![NEA-2161_VL_20110604.jpg](bilder%2Fslf%2FNEA-2161_VL_20110604.jpg)
+![NEA-2161_Cockpit_20110604.jpg](../bilder/slf/NEA-2161_Cockpit_20110604.jpg)
+![NEA-2161_F_20110604.jpg](../bilder/slf/NEA-2161_F_20110604.jpg)
+![NEA-2161_HLo_20110604.jpg](../bilder/slf/NEA-2161_HLo_20110604.jpg)
+![NEA-2161_L_20110604.jpg](../bilder/slf/NEA-2161_L_20110604.jpg)
+![NEA-2161_VL_20110604.jpg](../bilder/slf/NEA-2161_VL_20110604.jpg)
