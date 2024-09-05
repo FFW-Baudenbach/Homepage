@@ -4,6 +4,7 @@ Hier finden Sie einen Überblick über die Einsatzfahrzeuge der FFW Markt Bauden
 
 ## Aktuell
 * [Mehrzweckfahrzeug](mzf.md)
+* [Hilfeleistungslöschfahrzeug HLF20](hlf20.md)
 * [Löschgruppenfahrzeug LF8/6](lf86.md)
 * [Tragkraftspritzenanhänger](Archiv/slf.md) (Löschgruppe Roßbach)
 
