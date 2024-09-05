@@ -3,4 +3,4 @@ mkdocs
 mkdocs-material
 mkdocs-git-revision-date-localized-plugin
 mkdocs-htmlproofer-plugin
-mkdocs-glightbox
+mkdocs-glightbox==0.3.7 # newer versions causes problem (lightbox works only for cached images)
