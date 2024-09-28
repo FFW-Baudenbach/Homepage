@@ -52,3 +52,9 @@ Wenn die SSL-Verschlüsselung aktiviert ist, können die Daten, die Sie an uns �
 ## Widerspruch Werbe-Mails
 
 Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-E-Mails, vor.
+
+## Datenschutzerklärung aPager PRO
+
+[Datenschutzerklärung aPager PRO Android](http://apager-privacy.alamos-gmbh.com/)
+
+[Datenschutzerklärung aPager PRO iOS](http://apager-ios-privacy.alamos-gmbh.com/)
