@@ -1,5 +1,8 @@
 # Hilfeleistungslöschfahrzeug
 
+!![NEA-BF401_01.jpeg](bilder/hlf/NEA-BF401_01.jpeg){width=400; loading=lazy}
+
+
 **Funkrufname**
 Florian Baudenbach 40/1
 
@@ -59,10 +62,10 @@ TODO
 - Wassersauger
 - Sprungretter
 - Schleifkorbtrage
-- Flxilight Lichtmast
+- Flexilight Lichtmast
 - Hebekissen
 - Technische Hilfeleistung
 
 **Bilder**
 
-![NEA-BF401_01.jpeg](bilder/hlf/NEA-BF401_01.jpeg)
+> Kommen noch
