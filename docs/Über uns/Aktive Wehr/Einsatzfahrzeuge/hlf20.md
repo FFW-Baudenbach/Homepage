@@ -1,7 +1,5 @@
 # Hilfeleistungslöschfahrzeug
 
-> Diese Seite ist noch im Aufbau
-
 **Funkrufname**
 Florian Baudenbach 40/1
 
@@ -21,7 +19,7 @@ Hilfeleistungslöschfahrzeug
 Mercedes-Benz
 
 **Modell**
-TODO
+Mercedes Atego 1630 AF
 
 **Auf-/Ausbauhersteller**
 Rosenbauer
@@ -30,7 +28,7 @@ Rosenbauer
 2024
 
 **Maße (LxBxH)**
-TODO
+8,5 x 2,5 x 3,28m
 
 **Indienststellung**
 2024
@@ -39,21 +37,32 @@ TODO
 1/8
 
 **Leistung**
-TODO
+300 PS
 
 **Motor**
-TODO
+EURO 6 Diesel
 
 **Hubraum**
-TODO
+7698cm³
 
 **Leergewicht**
 TODO
 
 **Zulässiges Gesamtgewicht**
-TODO
+16t
 
 **Ausstattung**
-TODO
+- 2400l Wassertank
+- 120l Schaumtank (mit Schaumzumischanlage)
+- Drucklüfter
+- Wärmebildkamera
+- Wassersauger
+- Sprungretter
+- Schleifkorbtrage
+- Flxilight Lichtmast
+- Hebekissen
+- Technische Hilfeleistung
 
 **Bilder**
+
+![NEA-BF401_01.jpeg](bilder/hlf/NEA-BF401_01.jpeg)

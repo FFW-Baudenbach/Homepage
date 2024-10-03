@@ -1,6 +1,6 @@
 # Mehrzweckfahrzeug
 
-![NEA-BF112_VR_20110604.jpg](bilder%2Fmzf%2FNEA-BF112_VR_20110604.jpg){width=400; loading=lazy}
+![NEA-BF112_VR_20110604.jpg](bilder/mzf/NEA-BF112_VR_20110604.jpg){width=400; loading=lazy}
 
 **Funkrufname**
 Florian Baudenbach 11/1
@@ -64,6 +64,6 @@ Der technische Ausbau wurde durch die Firma Compoint vorgenommen. In Eigenleistu
 
 **Bilder**
 
-![NEA-BF112_F_20110604.jpg](bilder%2Fmzf%2FNEA-BF112_F_20110604.jpg)
-![NEA-BF112_H_20110604.jpg](bilder%2Fmzf%2FNEA-BF112_H_20110604.jpg)
-![NEA-BF112_HL_20110604.jpg](bilder%2Fmzf%2FNEA-BF112_HL_20110604.jpg)
+![NEA-BF112_F_20110604.jpg](bilder/mzf/NEA-BF112_F_20110604.jpg)
+![NEA-BF112_H_20110604.jpg](bilder/mzf/NEA-BF112_H_20110604.jpg)
+![NEA-BF112_HL_20110604.jpg](bilder/mzf/NEA-BF112_HL_20110604.jpg)
