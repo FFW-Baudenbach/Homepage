@@ -55,16 +55,17 @@ TODO
 16t
 
 **Ausstattung**
-- 2400l Wassertank
-- 120l Schaumtank (mit Schaumzumischanlage)
-- Drucklüfter
-- Wärmebildkamera
-- Wassersauger
-- Sprungretter
-- Schleifkorbtrage
-- Flexilight Lichtmast
-- Hebekissen
-- Technische Hilfeleistung
+
+* 2400l Wassertank
+* 120l Schaumtank (mit Schaumzumischanlage)
+* Drucklüfter
+* Wärmebildkamera
+* Wassersauger
+* Sprungretter
+* Schleifkorbtrage
+* Flexilight Lichtmast
+* Hebekissen
+* Technische Hilfeleistung
 
 **Bilder**
 
