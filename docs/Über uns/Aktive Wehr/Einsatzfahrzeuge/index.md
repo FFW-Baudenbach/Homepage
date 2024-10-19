@@ -12,6 +12,10 @@ Hier finden Sie einen Überblick über die Einsatzfahrzeuge der FFW Markt Bauden
 
 * [Sonderlöschfahrzeug (Hanomag)](Archiv/slf.md)
 
-<hr/>
+## Fahrzeuge ab 2024
 
-![Fahrzeuge](fahrzeuge.png){ loading=lazy }
+![Fahrzeuge](bilder/fahrzeuge.jpg){ loading=lazy }
+
+## Fahrzeuge bis 2024
+
+![Fahrzeuge alt](bilder/fahrzeuge_alt.png){ loading=lazy }
