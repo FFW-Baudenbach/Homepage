@@ -56,7 +56,6 @@ compoint-Fahrzeugbau
 **Ausstattung**
 
 * Einsatzunterlagen
-* Defibrillator
 * Türöffungswerkzeug
 * Nasssauger
 
