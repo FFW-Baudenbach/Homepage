@@ -10,9 +10,9 @@ Neben der Kommandantschaft zählen die Gruppenführer, die Jugendwarte, der Ger�
 ## Gruppenführer
 
 ### Zug 1
-| Achim Hummel                                    | Lars Schmidt                                     | Christina Weglehner                                        | Markus Zellner                                     |
+| Achim Hummel                                    | Lars Schmidt                                     | Christina Sandmann                                        | Markus Zellner                                     |
 |-------------------------------------------------|--------------------------------------------------|------------------------------------------------------------|----------------------------------------------------|
-| ![Achim Hummel](bilder/hummel.jpg){ width=120 } | ![Lars Schmidt](bilder/schmidt.jpg){ width=120 } | ![Christina Weglehner](bilder/weglehnerc.jpg){ width=120 } | ![Markus Zellner](bilder/zellner.jpg){ width=120 } |
+| ![Achim Hummel](bilder/hummel.jpg){ width=120 } | ![Lars Schmidt](bilder/schmidt.jpg){ width=120 } | ![Christina Sandmann](bilder/sandmann.jpg){ width=120 } | ![Markus Zellner](bilder/zellner.jpg){ width=120 } |
 
 ### Zug 2
 | Carina Köberer                                      | Markus Meyer                                   | Dieter Popp                                  | Tobias Vicedom                                     |
