@@ -5,19 +5,19 @@ Neben der Kommandantschaft zählen die Gruppenführer, die Jugendwarte, der Ger�
 ## Kommandantschaft
 | Karl-Heinz Köberer<br/>Kommandant                       | Johannes Weglehner<br/>Stv. Kommandant                    |
 |---------------------------------------------------------|-----------------------------------------------------------|
-| ![Karl-Heinz Köberer](bilder/koeberer.jpg){ width=120 } | ![Johannes Weglehner](bilder/weglehnerj.jpg){ width=120 } |
+| ![Karl-Heinz Köberer](bilder/koebererkh.jpg){ width=120 } | ![Johannes Weglehner](bilder/weglehnerj.jpg){ width=120 } |
 
 ## Gruppenführer
 
 ### Zug 1
-| Achim Hummel                                    | Lars Schmidt                                     | Christina Weglehner                                   | Markus Zellner                                     |
-|-------------------------------------------------|--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------|
-| ![Achim Hummel](bilder/hummel.jpg){ width=120 } | ![Lars Schmidt](bilder/schmidt.jpg){ width=120 } | ![Christina Weglehner](bilder/dummy.jpg){ width=120 } | ![Markus Zellner](bilder/zellner.jpg){ width=120 } |
+| Achim Hummel                                    | Lars Schmidt                                     | Christina Weglehner                                        | Markus Zellner                                     |
+|-------------------------------------------------|--------------------------------------------------|------------------------------------------------------------|----------------------------------------------------|
+| ![Achim Hummel](bilder/hummel.jpg){ width=120 } | ![Lars Schmidt](bilder/schmidt.jpg){ width=120 } | ![Christina Weglehner](bilder/weglehnerc.jpg){ width=120 } | ![Markus Zellner](bilder/zellner.jpg){ width=120 } |
 
 ### Zug 2
-| Carina Köberer                                  | Markus Meyer                                   | Dieter Popp                                  | Tobias Vicedom                                     |
-|-------------------------------------------------|------------------------------------------------|----------------------------------------------|----------------------------------------------------|
-| ![Carina Köberer](bilder/dummy.jpg){ width=120} | ![Markus Meyer](bilder/meyer.jpg){ width=120 } | ![Dieter Popp](bilder/popp.jpg){ width=120 } | ![Tobias Vicedom](bilder/vicedom.jpg){ width=120 } |
+| Carina Köberer                                      | Markus Meyer                                   | Dieter Popp                                  | Tobias Vicedom                                     |
+|-----------------------------------------------------|------------------------------------------------|----------------------------------------------|----------------------------------------------------|
+| ![Carina Köberer](bilder/koebererc.jpg){ width=120} | ![Markus Meyer](bilder/meyer.jpg){ width=120 } | ![Dieter Popp](bilder/popp.jpg){ width=120 } | ![Tobias Vicedom](bilder/vicedom.jpg){ width=120 } |
 
 ## Jugendwart
 | Werner Weglehner<br/>Jugendwart                         | Johannes Weglehner<br/>Stv. Jugendwart                    |
