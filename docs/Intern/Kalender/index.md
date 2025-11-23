@@ -10,11 +10,12 @@ Der Kalender untergliedert sich in folgende Kategorien:
 * Atemschutz
 * Führungskräfte - Aktive Wehr
 * Jugendgruppe
+* Landkreis
 * LG Roßbach
 * Maschinisten
 * Veranstaltungen
-* Vereinsmitglieder
-* Vereinsvorstand
+* Verein
+* Verein - Vorstandschaft
 * Zug 1
 * Zug 2
 
