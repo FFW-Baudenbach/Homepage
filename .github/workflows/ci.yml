@@ -29,13 +29,13 @@ jobs:
       - run: pip list | grep mkdocs
       - run: mkdocs gh-deploy --force --strict
       - run: mkdocs build --strict
-      - name: Modify Urls
-        uses: jacobtomlinson/gha-find-replace@v3
-        with:
-          find: "assets/external/baudenbach.einsatzprotokoll.com"
-          replace: "https://baudenbach.einsatzprotokoll.com"
-          include: "**/*.html"
-          regex: false
+#      - name: Modify Urls
+#        uses: jacobtomlinson/gha-find-replace@v3
+#        with:
+#          find: "assets/external/baudenbach.einsatzprotokoll.com"
+#          replace: "https://baudenbach.einsatzprotokoll.com"
+#          include: "**/*.html"
+#          regex: false
       - name: 📂 Publish to FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:

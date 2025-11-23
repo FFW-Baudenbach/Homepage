@@ -8,7 +8,9 @@ site_url: 'https://ffw-baudenbach.github.io/Homepage/'
 
 plugins:
   - search
-  - privacy
+  - privacy:
+      assets_exclude:
+       - baudenbach.einsatzprotokoll.com/*
   - glightbox
   - blog:
       blog_dir: .
