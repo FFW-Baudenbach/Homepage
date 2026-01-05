@@ -49,5 +49,4 @@ extra:
 
 
 extra_css:
-  - assets/stylesheets/max_body_size.css
   - assets/stylesheets/extra.css

@@ -12,7 +12,7 @@ Achim Hummel, 1. Vorstand
 
 ## Kontakt:
 Telefon: 	+49 (0) 9164 9989975  
-E-Mail: 	[Kontaktformular](https://baudenbach.einsatzprotokoll.com/intern/kontaktformular.html){ target="_blank" }
+E-Mail: 	[Kontakt](mailto:&#119;&#101;&#098;&#109;&#097;&#115;&#116;&#101;&#114;&#064;&#102;&#102;&#119;&#045;&#098;&#097;&#117;&#100;&#101;&#110;&#098;&#097;&#099;&#104;&#046;&#100;&#101;)
 
 Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
 
