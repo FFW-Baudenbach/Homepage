@@ -38,6 +38,8 @@ nav:
     - Verein: Über uns/Verein/verein.md
   - Einsätze:
       - Einsätze/Einsätze.md
+      - Einsätze/Einsatzstatistiken.md
+      - Einsätze/Einsätze_alt.md
   - Termine:
       - Termine/Termine.md
   - Intern:
