@@ -32,7 +32,6 @@ Hier bitte eingeben: `https://ffw-baudenbach.de/firecloud`
 Nach der Registrierung können Personen Gruppen zugeordnet werden, um Zugriff auf folgende geteilten Ordner zu bekommen:
 
 * Dokumentation<br/>Dokumentation rund um die Technik im Feuerwehrhaus
-* Festausschuss<br/>Alles rund um unser Jubiläumsfest
 * Feuerwehr<br/>Alles was zur aktiven Wehr gehört
 * Feuerwehrverein<br/>Alles rund um den Feuerwehrverein
 
