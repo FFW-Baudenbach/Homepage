@@ -8,7 +8,7 @@ Raiffeisenstraße 26
 
 ## Vertreten durch:
 
-Achim Hummel, 1. Vorstand
+Johannes Beihl, 1. Vorstand
 
 ## Kontakt:
 Telefon: 	+49 (0) 9164 9989975  
