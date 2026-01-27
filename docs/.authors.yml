@@ -2,12 +2,16 @@ authors:
   kommandant:
     name: Karl-Heinz Köberer
     description: Kommandant
-    avatar: https://ffw-baudenbach.github.io/Homepage/assets/avatar_koeberer.png
-  verein:
+    avatar: assets/avatar_koeberer.png
+  verein_hummel:
     name: Achim Hummel
     description: Verein
-    avatar: https://ffw-baudenbach.github.io/Homepage/assets/avatar_hummel.png
+    avatar: assets/avatar_hummel.png
+  verein_beihl:
+    name: Johannes Beihl
+    description: Verein
+    avatar: assets/avatar_beihl.png
   webmaster:
     name: Markus Zellner
     description: Webmaster
-    avatar: https://ffw-baudenbach.github.io/Homepage/assets/avatar_zellner.png
+    avatar: assets/avatar_zellner.png
