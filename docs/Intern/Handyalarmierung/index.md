@@ -2,7 +2,7 @@
 
 Die Freiwillige Feuerwehr betreibt eine **Zusatzalarmierung** für Handyalarmierung, sowie für Einsatzmonitore und Einsatztablets.
 
-Finanziert durch den Feuerwehrverein bieten wir die Einsatzalarmierung allen aktiven Kameradinnen und Kameraden ab 16 Jahren an.
+Finanziert durch den Feuerwehrverein bieten wir die Einsatzalarmierung allen aktiven Kameradinnen und Kameraden ab 18 Jahren an.
 
 Damit dies zuverlässig funktioniert, gibt es einige Punkte zu beachten.
 
@@ -11,9 +11,15 @@ Bitte lest diese Anleitung, sowie die häufigen Fragen aufmerksam durch.
 
 ## Einrichtung
 
-Am Whiteboard im Aufenthaltsraum befindet sich ein Zettel mit einer Anleitung und einem QR-Code zur Selbstregistrierung.
+Bitte meldet euch bei eurem Gruppenführer oder Kommandanten. Wir brauchen - sofern noch nicht vorhanden - eure E-Mail-Adresse und eure Handynummer.
+
+Als Vorbereitung könnt ihr euch die App `aPager PRO` installieren aus dem [Google Play Store](https://play.google.com/store/apps/details?id=org.xcrypt.apager.android2&hl=de) bzw. dem [Apple Store](https://apps.apple.com/de/app/apager-pro/id958761234).
+
+Sobald ihr eingerichtet seid, bekommt ihr eine E-Mail mit einem Installationslink. Diesen öffnet ihr und ihr springt damit in die App.
 
 Im Laufe der Einrichtung stimmt ihr auch den [Nutzungsbedingungen](Nutzungsbedingungen.md) und der [Datenschutzerklärung](../../Impressum/02-datenschutz.md) zu!
+
+Beachtet auf jeden Fall das Thema App-Berechtigungen und Energiespareinstellungen.
 
 
 ## Häufig gestellte Fragen
@@ -38,10 +44,6 @@ Im Laufe der Einrichtung stimmt ihr auch den [Nutzungsbedingungen](Nutzungsbedin
     Warum funktioniert dann WhatsApp & Co? Ganz einfach: Für diese Apps gelten die Beschränkungen nicht, sonst würden sich zu viele Leute beschweren.
     
     Was kann ich tun? Zunächst schaut in den Einstellungen in der App und in den Systemeinstellungen, dass ihr der App alle benötigten Rechte, unlimitiertes Datenvolumen und deaktiviert die Akku-Optimierung. Das hilft bei (in meinen Augen) guten Smartphones. Für andere könnt ihr auf dem obigen Link Tipps bekommen, wie man weitere "Features" abschaltet.
-
-??? question "Ihr bekommt Einladungen zu allgemeinen Übungen (Winterschulung, Atemschutzübungen, Maschinistenübungen), sowie zu euren Zugübungen."
-
-    Dies ist ein Kompromiss aus Pflegeaufwand und Nutzbarkeit. Ich bin immer offen für Vorschläge natürlich.
 
 ??? question "Ich bekomme mehrere Alarme hintereinander!"
 

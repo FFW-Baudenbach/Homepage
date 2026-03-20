@@ -34,7 +34,3 @@ Nach der Registrierung können Personen Gruppen zugeordnet werden, um Zugriff au
 * Dokumentation<br/>Dokumentation rund um die Technik im Feuerwehrhaus
 * Feuerwehr<br/>Alles was zur aktiven Wehr gehört
 * Feuerwehrverein<br/>Alles rund um den Feuerwehrverein
-
-
-
-[Link zur Firecloud](https://ffw-baudenbach.de/firecloud)

@@ -25,6 +25,8 @@ Kalender können abonniert werden, um automatisch an anstehende Termine erinnert
 
 Der Einfachheit halber werden einige Kalenderkategorien zusammengefasst.
 
+Zusätzlich werden die Kalender über aPager Pro bereitgestellt - in dem Fall automatisch nur die relevanten Termine.
+
 ### Kalenderlinks
 
 | Inhalt                                                                        | Zielgruppe                     | :calendar_spiral: ICAL Link                                 |
