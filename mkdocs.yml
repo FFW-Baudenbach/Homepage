@@ -9,6 +9,7 @@ site_url: 'https://ffw-baudenbach.github.io/Homepage/'
 plugins:
   - search
   - privacy:
+      enabled: !ENV [ENABLE_PRIVACY, False] #Disabled locally
       assets_exclude:
        - baudenbach.einsatzprotokoll.com/*
   - glightbox
@@ -16,7 +17,7 @@ plugins:
       blog_dir: .
       blog_toc: true
   - htmlproofer:
-      raise_error: !ENV [ENABLE_LINK_CHECK, True] #Disabled locally to not break 'mkdoc serve' on every typo...
+      raise_error: !ENV [ENABLE_LINK_CHECK, True]
       validate_external_urls: False
 
 nav:

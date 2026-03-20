@@ -3,6 +3,7 @@ name: ci
 env:
   GIT_DEPTH: "0"
   ENABLE_LINK_CHECK: 'True'
+  ENABLE_PRIVACY: 'True'
 
 on:
   push:
