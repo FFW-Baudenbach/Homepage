@@ -35,7 +35,7 @@ Man unterscheidet den Status der Mitglieder wie folgt:
 * Passive Vereinsmitglieder leisten keinen aktiven Feuerwehrdienst, sondern unterstützen bei Vereinsaufgaben, wie zum Beispiel bei den Festlichkeiten oder rein durch den jährlichen Beitrag.
 
 
-Falls nun Ihr Interesse am Feuerwehrverein geweckt wurde, so werden **S I E** für nur 10€ im Jahr Mitglied der Freiwilligen Feuerwehr Markt Baudenbach. Für weitere Informationen schreiben Sie dem Vorstand.
+Falls nun Ihr Interesse am Feuerwehrverein geweckt wurde, so werden **S I E** für nur 15€ im Jahr Mitglied der Freiwilligen Feuerwehr Markt Baudenbach. Für weitere Informationen schreiben Sie dem Vorstand.
 
 Wir kommen, wenn Sie Hilfe brauchen! Unterstützen Sie uns durch ihre Hilfe!
 
