@@ -6,7 +6,7 @@ hide:
 ---
 
 # Herzlich willkommen
-![Logo](assets/logo_ffw_neu.png){ loading=lazy }
+![Logo](assets/logo_ffw_neu.png){ loading=lazy .skip-lightbox }
 
 ## Letzter Einsatz
 <div id="iframe-wrapper-131" style="position: relative; width: 540px;">

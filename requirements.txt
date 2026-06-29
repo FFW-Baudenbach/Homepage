@@ -1,5 +1,5 @@
 # Required plugins and themes
-mkdocs
+mkdocs>=1,<2
 mkdocs-material
 mkdocs-git-revision-date-localized-plugin
 mkdocs-htmlproofer-plugin
