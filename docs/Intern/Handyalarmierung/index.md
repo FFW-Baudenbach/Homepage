@@ -49,6 +49,11 @@ Beachtet auf jeden Fall das Thema App-Berechtigungen und Energiespareinstellunge
 
     Es kann passieren - insbesondere bei den Probealarmen, dass mehrere Alarme kommen, bspw. für jede analoge Schleife einzeln. Das lässt sich nicht in jedem Fall zuverlässig unterdrücken.
 
+??? question "Kann ich bei Terminerinnerungen den Ton ausstellen?"
+
+    Terminerinnerungen, Fahrzeugstatus (für Gruppenführer) und weitere Informationen, die kein Alarm sind werden im aPager als "Infoalarm" behandelt. Hierfür kann man im aPager den Ton ausstellen.  
+    Siehe Anleitung [hier](https://alamos-support.atlassian.net/wiki/spaces/documentation/pages/219480604/Benachrichtigungseinstellungen).
+
 
 
 Für weitere Fragen/Anregungen - oder wenn dich das Thema interessiert und mitmachen willst - bitte einfach auf mich zukommen!
