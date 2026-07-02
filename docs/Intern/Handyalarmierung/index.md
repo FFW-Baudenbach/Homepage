@@ -47,7 +47,7 @@ Beachtet auf jeden Fall das Thema App-Berechtigungen und Energiespareinstellunge
 
 ??? question "Ich bekomme mehrere Alarme hintereinander!"
 
-    Es kann passieren - insbesondere bei den Probealarmen, dass mehrere Alarme kommen, bspw. für jede analoge Schleife einzeln. Das lässt sich nicht in jedem Fall zuverlässig unterdrücken.
+    Es kann passieren - insbesondere bei den Probealarmen, dass mehrere Alarme kommen, bspw. für jede Schleife einzeln. Das lässt sich nicht in jedem Fall zuverlässig unterdrücken.
 
 ??? question "Kann ich bei Terminerinnerungen den Ton ausstellen?"
 
