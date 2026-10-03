@@ -10,9 +10,9 @@ Neben der Kommandantschaft zählen die Gruppenführer, die Jugendwarte, der Ger�
 ## Gruppenführer
 
 ### Zug 1
-| Carina Köberer                                      | Christina Sandmann                                      | Tobias Vicedom                                     |
-|-----------------------------------------------------|---------------------------------------------------------|----------------------------------------------------|
-| ![Carina Köberer](bilder/koebererc.jpg){ width=120} | ![Christina Sandmann](bilder/sandmann.jpg){ width=120 } | ![Tobias Vicedom](bilder/vicedom.jpg){ width=120 } |
+| Carina Dietrich                                      | Christina Sandmann                                      | Tobias Vicedom                                     |
+|------------------------------------------------------|---------------------------------------------------------|----------------------------------------------------|
+| ![Carina Dietrich](bilder/dietrichc.jpg){ width=120} | ![Christina Sandmann](bilder/sandmann.jpg){ width=120 } | ![Tobias Vicedom](bilder/vicedom.jpg){ width=120 } |
 
 ### Zug 2
 | Achim Hummel                                    | Markus Meyer                                   | Lars Schmidt                                     | Markus Zellner                                     |
