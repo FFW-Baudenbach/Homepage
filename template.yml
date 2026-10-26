@@ -1,6 +1,7 @@
 theme:
   name: material
   language: de
+  variant: classic
   logo: assets/logo-brunnen.png
   favicon: assets/favicon.ico
   features:
@@ -15,7 +16,8 @@ theme:
     - content.code.annotate
     - content.action.edit
   palette:
-    - primary: custom
+    scheme: default
+    primary: custom
 
 
 markdown_extensions:
