@@ -14,7 +14,7 @@ Noch keinen Zugriff? Kein Problem. Einfach [hier](https://www.ffw-baudenbach.de/
 
 ## Zugriffsmöglichkeiten
 
-Das einfachste ist es natürlich, über die Oberfläche zuzugreifen. Damit kann man Datein hoch- und runterladen.
+Das einfachste ist es natürlich, über die Weboberfläche zuzugreifen. Damit kann man Datein hoch- und runterladen.
 
 Jedoch können auch sehr einfach Apps verwendet werden, um den Zugriff zu erleichtern:
 
